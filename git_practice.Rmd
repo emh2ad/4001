@@ -1,0 +1,9 @@
+---
+title: "git_practice"
+output: html_document
+---
+
+```{r}
+print("I'm Learning to Use GitHub... Boom")
+```
+
